@@ -1,5 +1,7 @@
 Usage
 ==========
 
+     $ git clone https://github.com/lowendbox/vzfree.git
+     $ cd vzfree
      $ make
      $ ./vzfree
